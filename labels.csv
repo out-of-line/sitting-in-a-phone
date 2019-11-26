@@ -1,0 +1,110 @@
+Index,"File
+",Does this sound like a unique call recepient?,"Can the original recording be heard?
+","Are there human voices?
+","Remarks
+"
+1,1.wav,No,No,Yes,"Original recepient and someone's answering machine
+"
+2,2.wav,No,No,No,Two answering machines - one same as the previous one plus a new one
+3,3.wav,Yes,No,Yes,"The voice from 1.wav, saying hello only once and rest is just bg noise"
+4,4.wav,No,No,No,"Someone yelling in the beginning - faint voices saying hello, etc"
+5,5.wav,No,No,Yes,"Multiple human voices, a horn, feeble replication of the recording"
+6,6.wav,No,Yes,Yes,"Many hellos, traffic sounds, etc"
+7,7.wav,No,No,Yes,One faint human voice saying hello
+8,8.wav,Yes,No,No,One guy saying 'hello' and then 'mm-hmm' as if he thinks someone is listening
+9,9.wav,No,Yes,Yes,Lots of mixed voices + answering machine
+10,10.wav,No,Yes,Yes,Hellos and answering machines
+11,11.wav,Yes,No,Yes,Prominent hello in the beginning
+12,12.wav,No,Yes,Yes,"Answering machines + original recording + some voices saying hello, etc."
+13,13.wav,Yes,No,Yes,Prominent voice in the beginning + a train later
+14,14.wav,No,Yes,Yes,Answering machines + mixed voices + someone singing and catcalling?
+15,15.wav,Yes,No,Yes,Hello in the beginning + a lot of muted noise
+16,16.wav,Yes,No,No,"""Hello.... Huh?"" Some guy is really puzzled"
+17,17.wav,Yes,No,No,"""Hello... who's this?"""
+18,18.wav,No,Yes,Yes,Lots of mixed voices + answering machine - that singing from 14 is there
+19,19.wav,Yes,No,No,A foreign language answering machine  (German?)
+20,20.wav,No,No,No,"Just a lot of noise with a clear ""Hmm"" and throat clearning in the middle somewhere"
+21,21.wav,No,No,Yes,"Throat clearning, coughing - muted noise that uusuallly accomanies unique recepients - perhaps this IS a unique recepient"
+22,22.wav,No,No,Yes,Couple of hellos in the beginning with muted noise - A VERY prominent call hold message at the very end
+23,23.wav,No,Yes,Yes,"Mixed voices, answering machines"
+24,24.wav,No,Yes,Yes,
+25,25.wav,Yes,No,Yes,"Hello in the beginning, then in the middle too"
+26,26.wav,No,No,No,Beeping and noise - something like a sharp horn at the end
+27,27.wav,No,No,No,Beeping and noise
+28,28.wav,No,Yes,Yes,Mixed voices + answering machines
+29,29.wav,No,No,Yes,"Strong hello in the beginning, feeble voices later"
+30,30.wav,No,Yes,Yes,Hellos and OR
+31,31.wav,No,Yes,Yes,Org recording + answering machine
+32,32.wav,No,No,Yes,"Lot of noise, too many voices speaking - a prominent one saying Hello"
+33,33.wav,No,Yes,Yes,Mixed voices + answering machines
+34,34.wav,No,No,Yes,"Beeps and noise, feeble voice in the end"
+35,35.wav,Yes,No,Yes,Someone mentioning Suvani by name
+36,36.wav,No,No,No,"Feeble beeps
+"
+37,37.wav,Yes,No,Yes,A  very clear hello in the beginning + noise and feeble voices
+38,38.wav,No,No,No,Almost entirely noise
+39,39.wav,No,No,No,Almost entirely noise
+40,40.wav,No,Yes,Yes,Highly mixed voices + answering machines
+41,41.wav,No,No,No,Almost entirely 8 bit noises
+42,42.wav,No,No,Yes,Feeble voices and some coughing
+43,43.wav,No,No,Yes,Very clear answering machine in the beginning
+44,44.wav,No,Yes,Yes,Hellos and OR
+45,45.wav,Yes,No,Yes,"Prominent hello, hanji  in the beginning"
+46,46.wav,No,No,Yes,Nothing specific
+47,47.wav,No,Yes,Yes,Mixed voices + OR
+48,48.wav,No,Yes,Yes,"Mixed voices + answering machines, etc"
+49,49.wav,No,Yes,Yes,"Mixed voices + answering machines, etc + singing"
+50,50.wav,No,Yes,Yes,"Mixed voices + answering machines, etc"
+51,51.wav,No,No,No,Prominent throat clearning in  the beginning + beeps when  it goes silent
+52,52.wav,Yes,No,No,Beeps
+53,53.wav,No,No,Yes,Answering machine + feeble voices
+54,54.wav,Yes,No,Yes,Recepeint mentions Suvani in the beginning
+55,55.wav,No,No,Yes,"Couple of hellos in the beginning, coughing"
+56,56.wav,No,No,Yes,"Feeble voices, feeble hello in the beginning + feeble beeps"
+57,57.wav,Yes,No,Yes,Prominent hello in the beginning
+58,58.wav,No,Yes,Yes,Lot of human voices + original recording
+59,59.wav,No,No,No,"Funny beepig noises like in 8-bit gaming consoles
+"
+60,60.wav,No,Yes,Yes,Lots of voices + OR + answering machine
+61,61.wav,No,Yes,Yes,Feeble voices and answering machines + the singing
+62,62.wav,Yes,No,Yes,Prominent hellos in the beginning with other noises
+63,63.wav,No,Yes,Yes,Lots of voices + OR + answering machine
+64,64.wav,Yes,No,Yes,There's a couple arguing - ordering food
+65,65.wav,No,Yes,Yes,"Hellos, giggles, many voices"
+66,66.wav,Yes,No,Yes,"Prominent hello in the beginning, saying hello, then asking 'Are you real?'"
+67,67.wav,No,Yes,Yes,Very noisy hellos from different sources + org recording. The org recording gets suddenly very clear in the later half
+68,68.wav,Yes,No,Yes,"Single human clearing throat, speaking a few words"
+69,69.wav,Yes,No,Yes,Prominent hello in the beginning and then nothing much except noise
+70,70.wav,No,Yes,Yes,Original recording + many human voices
+71,71.wav,No,No,Yes,Mixed voices and noise
+72,72.wav,No,Yes,Yes,"Very feeble OR and voices + one strong voice, recording  gets very strong in the end"
+73,73.wav,No,Yes,No,"Mixed voices, original recording, answering machines"
+74,74.wav,No,No,No,Other 8-bit gaming noises
+75,75.wav,No,No,No,Just a LOT of bg noise
+76,76.wav,No,No,Yes,Very noisy + beeps
+77,77.wav,No,Yes,Yes,"Many voices, answering machines"
+78,78.wav,No,Yes,Yes,Clarity of original recording changes in the beginning - becomes clearer + mixed voices
+79,79.wav,Yes,No,Yes,"""Hello, okay... """
+80,80.wav,Yes,No,Yes,"Prominent hello in the beginning, thank you at the end"
+81,81.wav,No,Yes,Yes,"Hellos, OR, answering machine"
+82,82.wav,Yes,No,Yes,"Faint noise, one person saying hello twice in the beginninng, and a few faint voices."
+83,83.wav,No,No,No,Beeps and noise
+84,84.wav,No,Yes,Yes,"Many voices, answering machines + singing + catcalling"
+85,85.wav,No,Yes,Yes,One clear  hello but there are a lot of other human voices + another example of org recording amplified halfway
+86,86.wav,No,No,Yes,"One person saying hello in the beginning
+"
+87,87.wav,No,Yes,Yes,Mixed voices + answering machines
+88,88.wav,No,Yes,Yes,Mixed voices + answering machines
+89,89.wav,No,Yes,Yes,Many hellos + answering machines
+90,90.wav,Yes,No,No,A very prominent answering machine!
+91,91.wav,No,No,Yes,Feeble voices
+92,92.wav,No,Yes,Yes,Mixed voices + answering machines
+93,93.wav,No,No,No,"Mostly, noise -  a few sharp breaths
+"
+94,94.wav,No,Yes,Yes,"Lots of voices - hellos, answering machines, original recording + bg voices and noise"
+95,95.wav,Yes,No,Yes,Single prominent hello in the beginning
+96,96.wav,No,No,Yes,"Prominent hello in the beginning, but mutliple  other faint hellos"
+97,97.wav,No,No,Yes,"Feeble voice initially, then another strong voice saying hello"
+98,98.wav,No,No,No,Beeps and feeble voices
+99,99.wav,No,Yes,Yes,Multiple voices
+100,100.wav,No,No,Yes,Beeps and one voice saying hello
